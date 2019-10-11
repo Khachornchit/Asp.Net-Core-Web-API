@@ -94,7 +94,7 @@ namespace AspNetCoreWebApi.Controllers
             _context.PaymentDetails.Remove(paymentDetail);
             await _context.SaveChangesAsync();
 
-            return paymentDetail;
+            return NoContent();
         }
 
         private bool PaymentDetailExists(int id)
