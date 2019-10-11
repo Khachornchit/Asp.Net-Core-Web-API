@@ -1,8 +1,8 @@
 # Asp.Net Core Web API
 Asp.Net Core Web API and Angular 7
 
-## Technology adn Packages Stack
-* Microsoft.AspNetCore.App, C#.NET
+## Technology Stack
+* ASP.NET Core, C#.NET
 * Microsoft.EntityFrameworkCore Version 2.2.6
 * Microsoft.EntityFrameworkCore.Tools Version 2.2.6
 * Microsoft SQL Expression 2014
