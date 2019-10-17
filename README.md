@@ -1,5 +1,5 @@
 # Asp.Net Core Web API
-Asp.Net Core Web API and Angular 7
+Asp.Net Core Web API with Microsoft.NET.Core 2.2
 
 ## Technology Stack
 * ASP.NET Core, C#.NET
